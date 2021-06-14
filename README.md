@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ismailmarmoushglo
-- 👀 I’m interested in Java, Reactive Functional programming
+- 👋 Hi, I’m Ismail Marmoush
+- Welcome to my work account
+- My opensource account is @ismailmarmoush
+- 👀 I’m interested in Java, Reactive Functional programming, and many other things
 
 
 <!---
